@@ -1,0 +1,20 @@
+.card {
+  margin: 2em 2em;
+  padding: 2em;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.img-card {
+  display: inline-block;
+  max-width:80%;
+  max-height:80%;
+  width: auto;
+  height: auto;
+}
+
+.text-card {
+  padding: 0;
+  margin: 0 1em;
+  font-size: 0.8em;
+}

@@ -1,0 +1,22 @@
+.banner {
+  margin: 0;
+  padding: 10%;
+  max-width: 100%;
+  background-image: url(../../images/background.png);
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  display: inline-block;
+}
+
+.banner p {
+  display: inline-block;
+  width: 100%;
+}
+
+.banner a {
+  display: inline-block;
+}
